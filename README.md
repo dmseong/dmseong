@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=170&section=header&text=Hello%20world&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=170&section=header&text=&fontSize=50)
 #### Education & Club Activities
 - 숙명여자대학교 컴퓨터과학전공 23학번, 2023/03 ~ present
 - 코딩 교육봉사 동아리 CNTO 7기, 2023/09 ~ 2024/02
