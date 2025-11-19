@@ -2,7 +2,7 @@
 #### Education & Club Activities
 - 숙명여자대학교 컴퓨터과학전공 23학번, 2023/03 ~ present
 - 코딩 교육봉사 동아리 CNTO 7기, 2023/09 ~ 2024/02
-- 알고리즘 학회 ALGOS 14기, 2024/03 ~ present
+- 알고리즘 학회 ALGOS 14기, 2024/03 ~ 2025/11
 - 중앙 프로그래밍 동아리 SOLUX 30기, 2025/03 ~ present
 
 #### Certifications
