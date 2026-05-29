@@ -4,6 +4,9 @@
 - **Extrus**, 2026/01 ~ 2026/02
   - Backend Developer Intern: [EXAFE AppCodex](https://extrus.net/ko/products/appcodex) Backend Code Refactoring & Feature Implementation
 
+- **RECO**, 2026/03 ~ NOW
+  - Software Developer Intern: Workflow Automation & Upbox Support Implementation
+
 #### Education & Activities
 - **숙명여자대학교 컴퓨터과학전공 23학번**, 2023/03 ~ 2027/02
 - **코딩 교육봉사 동아리 CNTO 7기**, 2023/09 ~ 2024/02
