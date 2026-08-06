@@ -4,7 +4,7 @@
 - **Extrus**, 2026/01 ~ 2026/02
   - Backend Developer Intern: [EXAFE AppCodex](https://extrus.net/ko/products/appcodex) Backend Code Refactoring & Feature Implementation
 
-- **RECO**, 2026/03 ~ NOW
+- **RECO**, 2026/03 ~ 2026/08
   - Software Developer Intern: Workflow Automation & Upbox Support Implementation
 
 #### Education & Activities
