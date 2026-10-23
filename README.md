@@ -20,6 +20,7 @@
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/ed7672db-7e25-4a6e-ae55-5c3fca5d9cb9/linked_in_profile) - AWS, Apr 2025
 - OPIc IH - Jul 2025
 - JLPT N2 - Aug 2025
+- 정보처리기사 - Sep 2026
 
 
 [![Solved.ac
